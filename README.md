@@ -11,7 +11,7 @@
 ## About The Project
 Add, edit, and delete Employees. That's it. 
 * The backend was created with Spring Tool Suite
-* The [frontend]() was implemented with VS code and React
+* The [frontend](https://github.com/oliviaram/EmployeeDB_Frontend) was implemented with VS code and React
 
 ### Built With
 * [![React][React.js]][React-url]
